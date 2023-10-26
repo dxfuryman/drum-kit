@@ -10,7 +10,7 @@ This is a simple web application that simulates a drum kit. You can play various
 - [License](#license)
 
 ## Demo
-You can see the live demo of the Drum Kit here: [Demo Link](#) (Replace with the actual link)
+You can see the live demo of the Drum Kit here: [https://dxfuryman.github.io/drum-kit/](#) 
 
 ## Getting Started
 To get started with this project on your local machine, follow these steps:
